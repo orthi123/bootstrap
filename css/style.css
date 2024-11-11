@@ -625,6 +625,14 @@ li{
 /* =======like css start======== */
 #like{
   background: url(../images/likevector.png) no-repeat bottom left;
+padding: 100px 0px;
+justify-content: center;
+margin: auto;
+}
+.like_main{
+  width: 982px;
+  margin: auto;
+
 }
 .like_img{
   margin-bottom: 60px;
